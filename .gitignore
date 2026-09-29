@@ -1,0 +1,4 @@
+# Editor and OS noise. Nothing else lives here yet: the base commit exists so a round
+# has a branch to be built from.
+.DS_Store
+Thumbs.db
